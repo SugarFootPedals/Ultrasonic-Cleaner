@@ -15,3 +15,5 @@ added are: modifications and recommendations for an improved circuit.
 
 This circuit, as drawn, is UNVERIFIED .
 ERRORS MAY EXIST !
+
+UPDATE- I have included the original JUMPERONE .pdf schematic for comparison.
